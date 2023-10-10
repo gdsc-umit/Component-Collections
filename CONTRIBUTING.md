@@ -28,7 +28,7 @@ If you'd like to contribute code or documentation changes, you can submit a pull
 2. Clone your forked repository to your local machine.
    1. Cloning the forking repository using git clone command.
 
-   ``` git clone [https://github.com/Harshal141/ResumeWorded.git](https://github.com/gdsc-umit/Component-Collections.git) ```
+   ``` git clone https://github.com/gdsc-umit/Component-Collections.git ```
       
 3. Create a new branch for your changes.
    
@@ -45,3 +45,5 @@ If you'd like to contribute code or documentation changes, you can submit a pull
 6. Open a pull request from your branch to our repository's `master` branch.<br>
    After the commit ,you will find a pull request button ,click on the pull request and make your Pull request with concise message.<br>
 We will review your PR and provide feedback. Once your contribution is approved, it will be merged into the project.
+
+### Thankyou !!

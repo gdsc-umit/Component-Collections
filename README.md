@@ -9,7 +9,7 @@ Get Beautiful and cool design for any WebPage Components !!  Contribute here and
 Checkout our `CONTRIBUTING.md` to know more.
 
 ## Code Of Conduct 🙋🏽‍♀️
-We have adopted the code of conduct that we expect our participants to adhere to.
+Before you start contributing, We expect all contributors to follow these guidelines to create a respectful and inclusive environment for everyone.
 
 ## Thankyou !! 🙏🏽
 Happy Learning ! Happy Coding !
